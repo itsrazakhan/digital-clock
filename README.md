@@ -3,7 +3,7 @@
 A simple live clock that shows the current time and updates every second.
 
 ## 👀 Live Demo
-[View it here](#) *(add your GitHub Pages link after publishing)*
+[View it here](https://itsrazakhan.github.io/digital-clock/) *(https://itsrazakhan.github.io/digital-clock/)*
 
 ## 📁 Files
 - `index.html` — The page
