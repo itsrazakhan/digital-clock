@@ -21,4 +21,4 @@ A simple live clock that shows the current time and updates every second.
 3. Watch the clock tick! ⏰
 
 ---
-Made with ❤️ while learning to code
+Made with ❤️ while learning to code 
